@@ -11,7 +11,7 @@ public class TheBeatles
     {
 	final String [] theBeatles = new String [4];
 	theBeatles [0] = "John Lennon";
-	theBeatles [1] = "Paul Mc Cartney";
+	theBeatles [1] = "Paul McCartney";
 	theBeatles [2] = "George Harrison";
 	theBeatles [3] = "Ringo Starr";
 	
